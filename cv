@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+</head>
+<body>
+    <p><h1><B>Vy Hourtong</B></h1></p>
+    <img src="Cv.JPG" alt="Photo"  width="120" height="150">
+    <h2>Contact information </h2>
+    <h3>Email: <small> hourtongvy@gmail.com</small></h3>
+    <h3>Phone: <small> 010927600</small></h3>
+    <h1>Experience</h1>
+    <br>Volunteer at Cambodia International Film Festival 13th
+        <br>Joined Korean Camping IYL
+        <h2>Education</h2>
+        <br>Finshed Highschool at BELTEI INTERNATIONAL SCHOOL Grade12
+        <br>Studying at SETEC INSTITUTE
+        <br>Studying at ACE
+        <h2>Skill</h2>
+        <br>1.Microsft Office
+        <br>2.HTML
+        <br>3.Communication
+        <h2>Langauge</h2>
+        <br>Khmer
+        <br>English
+        
+</body>
+</html>
